@@ -1,0 +1,5 @@
+export const Actions = {
+  RESET_COUNT: 'RESET_COUNT',
+  INCREMENT: 'INCREMENT',
+  DECREMENT: 'DECREMENT',
+};
